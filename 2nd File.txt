@@ -1,0 +1,8 @@
+Group Responsibilities
+• Each student must perform all the individual tasks above.
+• 
+One commit per step.
+• Each student should commit under their respective folder.
+• 
+
+Support your peers on the task development.

@@ -1,0 +1,11 @@
+Usage scenarios
+– Add files
+– 
+
+Change files
+– Remove files
+– 
+
+Merging files
+– Solving commit conflicts
+– Working with branche
